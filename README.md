@@ -1,4 +1,4 @@
-# CollabStudyCampus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM)
 
 ## Java Dvelopment Kit 24 
 
