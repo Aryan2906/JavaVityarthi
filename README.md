@@ -118,6 +118,13 @@ Used by developers to write, compile, and run programs.
 
 Without JDK, you can’t compile Java code.
 
+## Usage
+
+Open the **CCRMApp.java** in the src/edu/ccrm folder and run 
+`javac CCRMApp.java`
+then 
+`java CCRMApp`
+
 ## Installation
 
 ![alt text](https://www.eclipse.org/downloads/packages/modules/custom/eclipsefdn/eclipsefdn_packages/images/installer-instructions-02.png)
