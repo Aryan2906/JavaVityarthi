@@ -118,4 +118,12 @@ Used by developers to write, compile, and run programs.
 
 Without JDK, you can’t compile Java code.
 
+## Installation
 
+![alt text](https://www.eclipse.org/downloads/packages/modules/custom/eclipsefdn/eclipsefdn_packages/images/installer-instructions-02.png)
+
+![alt_text](https://www.eclipse.org/downloads/packages/modules/custom/eclipsefdn/eclipsefdn_packages/images/installer-instructions-03.png)
+
+![alt_text](https://www.eclipse.org/downloads/packages/modules/custom/eclipsefdn/eclipsefdn_packages/images/installer-instructions-04.png)
+
+![alt_text](https://www.eclipse.org/downloads/packages/modules/custom/eclipsefdn/eclipsefdn_packages/images/installer-instructions-05.png)
